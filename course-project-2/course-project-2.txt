@@ -1,0 +1,26 @@
+Assignment Content
+
+ Project 2 – Language Modelling and Text Classification
+Tast 1. Calculate unigram, bigram and trigram models on your dataset. Then calculate their perplexity. (20%)
+
+Task 2. Apply Laplace, Interpolation, Backoff and Kneser-Ney smoothing to language model and define which smoothing method is best for your DataSet. (30%)
+
+Task 3. Apply Naive Bayes algorithm. (30%)
+
+Task 4. Write a report. (20%)
+ 
+ 
+Presentations
+Teams can be formed by 1 or 2 students. Each team should prepare a presentation, and be prepared to give a short explanation. For each presentation a time slot of 10 minutes is scheduled (5 minutes for presentation + 5 minutes for Q&A).
+ 
+Final report
+Final project write-ups can be at most 5 pages long (including appendices and figures). We will allow for extra pages containing only references. Please include a section that describes what each team member worked on and contributed to the project. Each team member will be addressed the questions related with project's theoretical model and program code accordingly.
+Your project report should include the following information:
+Motivation: What problem are you tackling, and what's the setting you're considering?
+Method: What machine learning techniques have you tried and why?
+Experiments: Describe the experiments that you've run, the outcomes, and any error analysis that you've done. You should have tried at least one baseline. Note: negative results that indicate something did not work are welcome.
+Submission
+The final version of the project report accompanied by the all source code, slides, relevant data and experimental results should be submitted to the Balckboard System after presentation. 
+If you submit your solution after the deadline your score will be deducted by 20% per day. 
+
+Presentation day: 7 March, at class time.
