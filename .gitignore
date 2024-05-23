@@ -170,3 +170,5 @@ __pycache__/
 *.bin
 *.npy
 *.model
+*.json
+*.latex
